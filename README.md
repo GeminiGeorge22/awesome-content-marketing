@@ -62,6 +62,9 @@
 - **[ContentSquare](https://contentsquare.com/)** - Advanced analytics for measuring content engagement.
 - **[Chartbeat](https://www.chartbeat.com/)** - Real-time content analytics for publishers.
 - **[Crazy Egg](https://www.crazyegg.com/)** - A tool for tracking content engagement and website heatmaps.
+- **[Google Ads Transparency Scraper](https://apify.com/publicrecords/google-ads-transparency-scraper)** - Google ads a competitor runs, from the Ads Transparency Center, with first and last shown dates (Apify Actor, API + MCP).
+- **[Etsy Search Scraper](https://apify.com/publicrecords/etsy-search-scraper)** - Etsy search results by keyword: price, rating, reviews, Bestseller badge, ad flag, rank (Apify Actor, API + MCP).
+- **[Company Social Profile Finder](https://apify.com/publicrecords/company-social-profile-finder)** - Company domain or name to its LinkedIn, X, YouTube, Instagram and Facebook links, with confidence scores (Apify Actor, API + MCP).
 
 ## Content Marketing Strategies
 
